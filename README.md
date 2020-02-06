@@ -22,7 +22,7 @@ You will need the following packages installed
 
 ## Usage
 
-```detect-drift.py AEZ8EEWIUHAEF0 my-cloudformation stack```
+```detect-drift.py AEZ8EEWIUHAEF0 my-cloudformation-stack```
 
 *or*
 
