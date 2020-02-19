@@ -180,11 +180,5 @@ Resource Type: DefaultCacheBehavior
 
 ## Authors
 
-* **Jy Kingston** - *Initial work* - [EonX](https://eonx.com/)
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* **Jy Kingston** - [EonX](https://eonx.com/)
 
