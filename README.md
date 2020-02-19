@@ -15,6 +15,7 @@ AWS Requirements
 * CloudFormation IAM Permissions for 'GetTemplate'
 * CloudFront IAM Permissions for 'GetDistribution'
 * [AWS CLI authentication](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
+
 You will need the following packages installed
 * python3
 * [boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
