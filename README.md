@@ -5,7 +5,7 @@ Python tool to perform a comparison against a template from a CloudFormation Sta
 
 ## Getting Started
 
-These instructions will get you a copy of the tool up and running.
+These instructions will get a the tool up and running.
 
 ### Requirements
 Tested and developed on Ubuntu 18.04.
